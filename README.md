@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bsantiago7241@gmail.com**
 
-- ⚡ Fun fact **I've visited 10 countries and counting! 🌍✈️**
+- ⚡ Fun fact **I've visited 3 countries and counting! 🌍✈️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
