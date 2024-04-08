@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Santiago</h1>
 <h3 align="center">Aspiring Software Engineer 💻</h3>
 
-- 🔭 I’m currently working on: **An executable project**
+- 🔭 I’m currently working on: **BMI App**
 
 - 🌱 I’m currently learning: **Linux/UNIX**
 
